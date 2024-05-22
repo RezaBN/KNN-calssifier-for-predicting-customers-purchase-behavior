@@ -5,11 +5,10 @@ This script implements a simple K-Nearest Neighbors classifier for predicting on
 It is based on the programming exercise in "Shopping - CS50's Introduction to Artificial Intelligence with Python" course.
 https://cs50.harvard.edu/college/2024/fall/
 
-Author: Reza Barzegar Nozari;
-
 Description:
 - KDTree implementation uses a KDTree for efficient nearest neighbor searches.
 
+Author: Reza Barzegar Nozari
 Date: May 2024
 """
 
