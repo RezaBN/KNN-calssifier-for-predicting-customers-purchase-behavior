@@ -1,4 +1,4 @@
-# K-Nearest Neighbors (KNN) Classifier
+# K-Nearest Neighbors (KNN) Classifier for Predicting Customers Purchase behavior
 
 This repository contains two implementations of a K-Nearest Neighbors (KNN) classifier for predicting online shopping behavior based on based on the programming exercise in "Shopping - CS50's Introduction to Artificial Intelligence with Python" course.
 https://cs50.harvard.edu/college/2024/fall/.
