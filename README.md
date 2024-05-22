@@ -27,8 +27,8 @@ Make sure you have Python installed. You can download it from [python.org](https
 
 1. Clone this repository to your local machine:
     ```sh
-    git clone https://github.com/yourusername/knn-classifier.git
-    cd knn-classifier
+    git clone https://github.com/RezaBN/KNN-classifier-for-predicting-customers-purchase-behavior.git
+    cd KNN-classifier-for-predicting-customers-purchase-behavior
     ```
 
 2. (Optional) Create and activate a virtual environment:
