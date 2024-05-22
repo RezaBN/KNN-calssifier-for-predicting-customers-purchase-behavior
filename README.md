@@ -10,7 +10,7 @@ The classifiers are implemented in Python and use different approaches for findi
 1. **Naive Implementation**: A straightforward approach using a brute-force method to compute Euclidean distances.
 2. **KDTree Implementation**: An optimized approach using a KDTree for efficient nearest neighbor searches.
 
- *** Both models were implemented manually, without using existing libraries of KNN and KDTree.***
+ ***Both models were implemented manually, without using existing libraries of KNN and KDTree.***
  
 ## Dataset
 
