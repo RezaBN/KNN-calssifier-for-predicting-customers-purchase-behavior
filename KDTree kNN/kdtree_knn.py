@@ -124,7 +124,7 @@ class KDTree:
         if self.n <= 0:
             self.root = None
         else:
-            k = len(points[0])  # assumes all points have the same dimension
+            k = len(points[0]) 
             axis = depth % k
 
             sorted_points = sorted(zip(points, labels), key=lambda x: x[0][axis])
@@ -295,7 +295,7 @@ def evaluate(labels, predictions):
         - 'F1 Score' (float): Harmonic mean of precision and recall.
         - 'Accuracy' (float): Overall accuracy of predictions.
     """
-    # Convert lists to NumPy arrays if necessary
+    # Convert lists to NumPy arrays
     labels = np.array(labels)
     predictions = np.array(predictions)
 
