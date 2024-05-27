@@ -202,7 +202,7 @@ def evaluate(labels, predictions):
         - 'F1 Score' (float): Harmonic mean of precision and recall.
         - 'Accuracy' (float): Overall accuracy of predictions.
     """
-    # Convert lists to NumPy arrays if necessary
+    # Convert lists to NumPy arrays
     labels = np.array(labels)
     predictions = np.array(predictions)
 
